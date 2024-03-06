@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../qr-code-component-main"
+		},
+		{
+			"path": "../3-column-card"
+		},
+		{
+			"path": "../order-summary"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "order-summary"
+	}
+}
